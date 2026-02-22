@@ -63,7 +63,7 @@
 
 /* Hero Image ko glow aur proper size dene ke liye */
 .VPImage.image-src {
-  max-height: 450px; /* Aap apne hisaab se adjust kar sakte hain */
+  max-height: 500px; /* Aap apne hisaab se adjust kar sakte hain */
   filter: drop-shadow(0 0 30px rgba(100, 108, 255, 0.2)); /* Professional MNC glow */
 }
 
