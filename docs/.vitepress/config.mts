@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Zyberix Strategic Resources",
   description: "Strategic Knowledge Repository",
-  
+
   // Favicon section (Tab icon ke liye)
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }]
@@ -13,7 +13,7 @@ export default defineConfig({
   themeConfig: {
     // Branding: Official Logo update
     logo: '/logo.svg', 
-    siteTitle: 'Zyberix Hub',
+    siteTitle: false, // Site tittle hide
 
     nav:[
       { text: 'Home', link: '/' },
