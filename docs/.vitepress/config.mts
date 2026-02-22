@@ -7,7 +7,7 @@ export default defineConfig({
 
   // Favicon section (Tab icon ke liye)
   head: [
-    ['link', { rel: 'icon', href: '/favicon.ico' }]
+    ['link', { rel: 'icon', href: '/favicon.svg' }]
   ],
 
   themeConfig: {
