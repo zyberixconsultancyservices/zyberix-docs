@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "Zyberix Strategic Resources"
-  text: "Demo"
-  tagline: My great project tagline
+  name: "Strategic Knowledge Base"
+  text: "Powering Informed Decisions Across the Enterprise"
+  tagline: Where Knowledge Drives Confident Decisions
   actions:
     - theme: brand
       text: Markdown Examples
@@ -15,11 +15,13 @@ hero:
       link: /api-examples
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Governance
+    details: Data Privacy (GDPR), Ethics, and Legal Protocols
+  - title: Operations
+    details: Step-by-step guide for new clients and internal teams.
+  - title: Finance
+    details: Invoicing standards and financial transparency rules.
+  - title: Technical
+    details: Zyberix tech stack and security frameworks.
 ---
 
