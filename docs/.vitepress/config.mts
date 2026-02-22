@@ -14,6 +14,12 @@ export default defineConfig({
     // Branding: Official Logo update
     logo: '/logo.svg', 
     siteTitle: false, // Site tittle hide
+    
+    // ⬇️ SEARCH CONFIGURATION START ⬇️
+    search: {
+      provider: 'local'
+    },
+    // ⬆️ SEARCH CONFIGURATION END ⬆️
 
     nav:[
       { text: 'Home', link: '/' },
