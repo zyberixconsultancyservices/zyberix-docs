@@ -1,0 +1,10 @@
+:root {
+  /* Logo ki height 32px standard hoti hai professional docs ke liye */
+  --vp-nav-logo-height: 32px;
+}
+
+/* Isse sirf logo dikhega aur extra spacing handle ho jayegi */
+.VPNavBar .title {
+  display: flex;
+  align-items: center;
+}
