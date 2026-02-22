@@ -48,6 +48,13 @@ export default defineConfig({
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/zyberixconsultancyservices' }
-    ]
+    ], // Yahan comma (,) check karein
+
+    // ⬇️ FOOTER SECTION START ⬇️
+    footer: {
+      message: 'Empowering Global Operations through Standardized Governance and Intelligence.',
+      copyright: 'Copyright © 2026 Zyberix Consultancy Services. All Rights Reserved.'
+    }
+    // ⬆️ FOOTER SECTION END ⬆️
   },
 })
