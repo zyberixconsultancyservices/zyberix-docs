@@ -75,7 +75,7 @@
 }
 @media (max-width: 640px) {
   .VPImage.image-src {
-    max-height: 250px !important;
+    max-height: 450px !important;
   }
 }
 
@@ -83,8 +83,8 @@
 @media (min-width: 960px) {
   /* [data-v-...] ki jagah .VPImage.image-src use karein */
   .VPHero .image-src {
-    max-width: 450px !important; /* Aapka desired width */
-    max-height: 450px !important; /* Aapka desired height */
+    max-width: 500px !important; /* Aapka desired width */
+    max-height: 500px !important; /* Aapka desired height */
     width: auto;
     height: auto;
     object-fit: contain;
