@@ -6,6 +6,10 @@ hero:
   name: "Knowledge Base"
   text: "Transforming Information into Operational Clarity"
   tagline: By Zyberix Consultancy Services
+  # ⬇️ YE SECTION ADD KAREIN ⬇️
+  image:
+    src: /hero-image.png  # Aapki image ka path
+    alt: Zyberix Strategic Hub
   actions:
     - theme: brand
       text: General Public
