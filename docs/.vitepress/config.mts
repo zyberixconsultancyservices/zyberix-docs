@@ -29,10 +29,10 @@ export default defineConfig({
       { text: 'Risk Management', link: '/risk' },
     ]
   }
-]
+],
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/zyberixconsultancyservices' }
     ]
-  }
+  },
 })
