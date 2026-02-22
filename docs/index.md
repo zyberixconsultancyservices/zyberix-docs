@@ -3,15 +3,15 @@
 layout: home
 
 hero:
-  name: "Strategic Knowledge Base"
-  text: "Powering Informed Decisions Across the Enterprise"
-  tagline: Where Knowledge Drives Confident Decisions
+  name: "Knowledge Base"
+  text: "Transforming Information into Operational Clarity"
+  tagline: By Zyberix Consultancy Services
   actions:
     - theme: brand
-      text: Markdown Examples
+      text: General Public
       link: /markdown-examples
     - theme: alt
-      text: API Examples
+      text: Existing Clients
       link: /api-examples
 
 features:
