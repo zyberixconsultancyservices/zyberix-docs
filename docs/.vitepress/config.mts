@@ -13,13 +13,21 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Examples',
-        items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
-        ]
-      }
-    ],
+    text: 'Introduction',
+    items: [
+      { text: 'Getting Started', link: '/getting-started' },
+      { text: 'How to use this KB', link: '/how-to-use' }
+    ]
+  },
+  {
+    text: 'Strategic Units',
+    items: [
+      { text: 'Operations Framework', link: '/onboarding' },
+      { text: 'Financial Integrity', link: '/finance' },
+      { text: 'Risk Management', link: '/risk' }
+    ]
+  }
+]
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
