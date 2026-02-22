@@ -52,8 +52,8 @@ export default defineConfig({
 
     // ⬇️ FOOTER SECTION START ⬇️
     footer: {
-      message: 'Empowering Global Operations through Standardized Governance and Intelligence.',
-      copyright: 'Copyright © 2026 Zyberix Consultancy Services. All Rights Reserved.'
+      message: '© 2024–2025 Zyberix Consultancy Services Pvt. Ltd.',
+      copyright: 'All Rights Reserved. | ❤️ Corporate Excellence'
     }
     // ⬆️ FOOTER SECTION END ⬆️
   },
