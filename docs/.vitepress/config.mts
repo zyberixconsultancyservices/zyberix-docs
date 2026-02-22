@@ -8,9 +8,9 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
-      { text: 'Knowledge Base', link: '/' }
-      { text: 'Documentation', link: '/' }
+      { text: 'Examples', link: '/markdown-examples' },
+      { text: 'Knowledge Base', link: '/' },
+      { text: 'Documentation', link: '/' },
     ],
 
     sidebar: [
@@ -18,7 +18,7 @@ export default defineConfig({
     text: 'Introduction',
     items: [
       { text: 'Getting Started', link: '/getting-started' },
-      { text: 'How to use this KB', link: '/how-to-use' }
+      { text: 'How to use this KB', link: '/how-to-use' },
     ]
   },
   {
@@ -26,14 +26,13 @@ export default defineConfig({
     items: [
       { text: 'Operations Framework', link: '/onboarding' },
       { text: 'Financial Integrity', link: '/finance' },
-      { text: 'Risk Management', link: '/risk' }
+      { text: 'Risk Management', link: '/risk' },
     ]
   }
 ]
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
-      { icon: 'github', link: '/' }
+      { icon: 'github', link: 'https://zyberix.co.in' }
     ]
   }
 })
