@@ -32,7 +32,7 @@ export default defineConfig({
 ]
 
     socialLinks: [
-      { icon: 'github', link: 'https://zyberix.co.in' }
+      { icon: 'github', link: 'https://github.com/zyberixconsultancyservices' },
     ]
   }
 })
