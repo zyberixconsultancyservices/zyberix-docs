@@ -60,3 +60,21 @@
     margin: 0 10px;
   }
 }
+
+/* Hero Image ko glow aur proper size dene ke liye */
+.VPImage.image-src {
+  max-height: 450px; /* Aap apne hisaab se adjust kar sakte hain */
+  filter: drop-shadow(0 0 30px rgba(100, 108, 255, 0.2)); /* Professional MNC glow */
+}
+
+/* Mobile par image ko center karne ke liye */
+@media (max-width: 960px) {
+  .VPImage.image-src {
+    margin: 0 auto;
+  }
+}
+@media (max-width: 640px) {
+  .VPImage.image-src {
+    max-height: 250px !important;
+  }
+}
